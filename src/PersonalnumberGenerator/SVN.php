@@ -1,12 +1,9 @@
 <?php
 
-
 namespace PersonalNumberGenerator;
-
 
 class SVN implements PersonalNumberInterface
 {
-
     /**
      * @return string
      */
