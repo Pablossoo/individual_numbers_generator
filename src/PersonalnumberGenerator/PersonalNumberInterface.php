@@ -2,10 +2,8 @@
 
 namespace PersonalNumberGenerator;
 
-
 interface PersonalNumberInterface
 {
-
     /**
      * @return string
      */
