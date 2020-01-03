@@ -1,12 +1,9 @@
 <?php
 
-
 namespace PersonalNumberGenerator;
-
 
 class BSN implements PersonalNumberInterface
 {
-
     /**
      * @return string
      */
