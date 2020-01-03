@@ -4,7 +4,6 @@ namespace PersonalNumberGenerator;
 
 class Pesel implements PersonalNumberInterface
 {
-
     /**
      * @return string
      */
