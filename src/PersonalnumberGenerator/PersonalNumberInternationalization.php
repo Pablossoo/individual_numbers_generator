@@ -1,8 +1,6 @@
 <?php
 
-
 namespace PersonalNumberGenerator;
-
 
 class PersonalNumberInternationalization
 {
@@ -17,7 +15,6 @@ class PersonalNumberInternationalization
     {
         $this->PersonalNumberInterface = $PersonalNumberInterface;
     }
-
 
     public function generate()
     {
